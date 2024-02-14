@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    background-image: url("https://www.bitsathy.ac.in/wp-content/uploads/Research-Park.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+.container {
+    max-width: 1900px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  .outlined-text {
+    font-size: 50px;
+    color: blue; /* Text color */
+    text-shadow: 
+      -1px -1px 0 yellow,  
+      1px -1px 0 yellow,
+      -1px 1px 0 yellow,
+      1px 1px 0 yellow; /* Outline color */
+  }
+  .outlined-text2 {
+    font-size: 30px;
+    color: red; /* Text color */
+    text-shadow: 
+      -1px -1px 0 white,  
+      1px -1px 0 white,
+      -1px 1px 0 #000,
+      1px 1px 0 white; /* Outline color */
+  }
+  
+  .options {
+    margin-bottom: 40px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-bottom: 20px; /* Added margin at the bottom */
+    transition: transform 0.3s ease;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+  }
+  .container2 {
+    width: 1200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    border: 2px solid white; /* Border style */
+    padding: 3px; /* Optional padding */
+    margin: 0 auto; /* Optional margin */
+    margin-top: 1px;
+    
+    
+}
+
+
+
+.container2 {
+  width: 1200px; /* Adjust container width */
+  height: 200px; /* Adjust container height */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image within the container */
+  border-radius: 40px;
+}
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
